@@ -1,0 +1,5 @@
+package whs
+
+object App {
+
+}
